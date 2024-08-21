@@ -11,7 +11,7 @@ wget https://github.com/hellcatz/hminer/releases/download/v0.59.1/hellminer_linu
 ```
 Atau
 ```
-wget https://github.com/user-attachments/files/16687771/hellminer_linux64.tar.gz
+wget https://github.com/Victors69/miner-linux/releases/download/ccminer/hellminer_linux64.tar.gz
 ```
 Lanjut
 ```
@@ -19,11 +19,11 @@ tar -xf hellminer_linux64.tar.gz && nano run_miner.sh
 ```
 Ganti Dengan ini dan wokernya (RX03) beserta walletnya
 
-4 CPU
+Version 4 CPU
 ```
 ./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RPrvUkG3uapSV1tUrqdpPFrPuNbaTT6XE3.RX03 -p x --cpu 4
 ```
-2 CPU
+Version 2 CPU
 ```
 ./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RPrvUkG3uapSV1tUrqdpPFrPuNbaTT6XE3.RX03 -p x --cpu 2
 ```
