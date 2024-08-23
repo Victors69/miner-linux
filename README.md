@@ -21,7 +21,7 @@ Ganti Dengan ini dan wokernya (RX03) beserta walletnya
 
 Version 4 CPU
 ```
-./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RPrvUkG3uapSV1tUrqdpPFrPuNbaTT6XE3.RX03 -p x --cpu 4
+./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RWQzAdy7fEEtXwAy4W7q3MATxK9bzby48Q.RX00 -p x
 ```
 Version 2 CPU
 ```
